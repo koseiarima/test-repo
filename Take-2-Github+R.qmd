@@ -27,3 +27,5 @@ You can add options to executable code like this
 The `echo: false` option disables the printing of code (only output is displayed).
 
 # Take 2 Connect GitHub with RStudio
+
+Doing more edits show that I can see the blue modified M letter. Saving it now.
